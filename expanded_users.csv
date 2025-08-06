@@ -1,0 +1,10 @@
+user_id,age_group,gender,recovery_stage,preferred_resource_type
+U0001,18-24,Male,Early Stage,Motivational Messages
+U0002,25-34,Female,Mid Stage,Coping Strategies
+U0003,35-44,Male,Late Stage,Articles
+U0004,45-54,Male,Mid Stage,Articles
+U0005,55+,Female,Late Stage,Motivational Messages
+U0006,18-24,Male,Early Stage,Coping Strategies
+U0007,55+,Female,Early Stage,Motivational Messages
+U0008,25-34,Female,Mid Stage,Articles
+U0009,45-54,Male,Mid Stage,Articles

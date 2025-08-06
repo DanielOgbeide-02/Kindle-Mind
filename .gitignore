@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Model files
+*.pt
+*.npz
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+
+# VSCode/IDE files
+.vscode/
+.idea/
+
